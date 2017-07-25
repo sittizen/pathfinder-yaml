@@ -1,0 +1,63 @@
+importer: spelltables.masteries
+
+mastery_type: Mysteries
+  ancestor:
+    name: Ancestor
+  apocalypse:
+    name: Apocalypse
+  battle:
+    name: Battle
+  bones:
+    name: Bones
+  dark_tapestry:
+    name: Dark Tapestry
+  dragon:
+    name: Dragon
+  flame:
+    name: Flame
+  godclaw:
+    name: Godclaw
+  heavens:
+    name: Heavens
+  intrigue:
+    name: Intrigue
+  juju:
+    name: Juju
+  life:
+    name: Life
+  lore:
+    name: Lore
+  lunar:
+    name: Lunar
+  metal:
+    name: Metal
+  nature:
+    name: Nature
+  occult:
+    name: Occult
+  outer_rifts:
+    name: Outer Rifts
+  shadow:
+    name: Shadow
+  solar:
+    name: Solar
+  spellscar:
+    name: Spellscar
+  stone:
+    name: Stone
+  streets:
+    name: Streets
+  succor:
+    name: Succor
+  time:
+    name: Time
+  volcano:
+    name: Volcano
+  waves:
+    name: Waves
+  wind:
+    name: Wind
+  winter:
+    name: Winter
+  wood:
+    name: Wood

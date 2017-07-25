@@ -1,0 +1,91 @@
+importer: spelltables.patreons
+
+mastery_type: Patreons
+
+masteries:
+  agility:
+    name: Agility
+  ancestors:
+    name: Ancestors
+  animals:
+    name: Animals
+  boundaries:
+    name: Boundaries
+  conspiracies:
+    name: Conspiracies
+  death:
+    name: Death
+  decadence:
+    name: Decadence
+  deception:
+    name: Deception
+  devotion:
+    name: Devotion
+  dimensions:
+    name: Dimensions
+  elements:
+    name: Elements
+  enchantment:
+    name: Enchantment
+  endurance:
+    name: Endurance
+  entropy:
+    name: Entropy
+  ethereal:
+    name: Ethereal
+  healing:
+    name: Healing
+  insanity:
+    name: Insanity
+  light:
+    name: Light
+  mind:
+    name: Mind
+  moon:
+    name: Moon
+  mountain:
+    name: Mountain
+  occult:
+    name: Occult
+  nightmares:
+    name: Nightmares
+  revenge:
+    name: Revenge
+  space:
+    name: Space
+  peace:
+    name: Peace
+  plague:
+    name: Plague
+  plant:
+    name: Plant
+  portents:
+    name: Portents
+  shadow:
+    name: Shadow
+  spirits:
+    name: Spirits
+  stars:
+    name: Stars
+  storms:
+    name: Storms
+  strength:
+    name: Strength
+  summer:
+    name: Summer
+  thorns:
+    name: Thorns
+  time:
+    name: Time
+  transformation:
+    name: Transformation
+  trickery:
+    name: Trickery
+  vengeance:
+    name: Vengeance
+  water:
+    name: Water
+  winter:
+    name: Winter
+  wisdom:
+    name: Wisdom

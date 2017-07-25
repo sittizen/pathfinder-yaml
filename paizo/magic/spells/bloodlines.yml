@@ -1,0 +1,89 @@
+importer: spelltables.masteries
+
+mastery_type: Bloodlines
+
+masteries:
+  aberrant_bloodline:
+    name: Aberrant Bloodline
+  abyssal_bloodline:
+    name: Abyssal Bloodline
+  accursed_bloodline:
+    name: Accursed Bloodline
+  aquatic_bloodline:
+    name: Aquatic Bloodline
+  arcane_bloodline:
+    name: Arcane Bloodline
+  boreal_bloodline:
+    name: Boreal Bloodline
+  celestial_bloodline:
+    name: Celestial Bloodline
+  daemon_bloodline:
+    name: Daemon Bloodline
+  deep_heart_bloodline:
+    name: Deep Earth Bloodline
+  destined_bloodline:
+    name: Destined Bloodline
+  div_bloodline:
+    name: Div Bloodline
+  djinni_bloodline:
+    name: Djinni Bloodline
+  draconic_bloodline:
+    name: Draconic Bloodline
+  dreamspun_bloodline:
+    name: Dreamspun Bloodline
+  ectoplasm_bloodline:
+    name: Ectoplasm Bloodline
+  efreeti_bloodline:
+    name: Efreeti Bloodline
+  elemental_bloodline:
+    name: Elemental Bloodline
+  fey_bloodline:
+    name: Fey Bloodline
+  ghoul_bloodline:
+    name: Ghoul Bloodline
+  harrow_bloodline:
+    name: Harrow Bloodline
+  imperious_bloodline:
+    name: Imperious Bloodline
+  impossible_bloodline:
+    name: Impossible Bloodline
+  infernal_bloodline:
+    name: Infernal Bloodline
+  kobold_bloodline:
+    name: Kobold Bloodline
+  maestro_bloodline:
+    name: Maestro Bloodline
+  marid_bloodline:
+    name: Marid Bloodline
+  martyred_bloodline:
+    name: Martyred Bloodline
+  nanite_bloodline:
+    name: Nanite Bloodline
+  oni_bloodline:
+    name: Oni Bloodline
+  orc_bloodline:
+    name: Orc Bloodline
+  pestilence_bloodline:
+    name: Pestilence Bloodline
+  possessed_bloodline:
+    name: Possessed Bloodline
+  protean_bloodline:
+    name: Protean Bloodline
+  psychic_bloodline:
+    name: Psychic Bloodline
+  rakshasa_bloodline:
+    name: Rakshasa Bloodline
+  serpentine_bloodline:
+    name: Serpentine Bloodline
+  shadow_bloodline:
+    name: Shadow Bloodline
+  shaitan_bloodline:
+    name: Shaitan Bloodline
+  starsoul_bloodline:
+    name: Starsoul Bloodline
+  stormborn_bloodline:
+    name: Stormborn Bloodline
+  undead_bloodline:
+    name: Undead Bloodline
+  verdant_bloodline:
+    name: Verdant Bloodline

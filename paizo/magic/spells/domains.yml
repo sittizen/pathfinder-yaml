@@ -1,0 +1,258 @@
+importer: spelltables.masteries
+
+mastery_type: Domains
+
+masteries:
+  air_domain:
+    name: Air Domain
+    subs:
+      - Cloud
+      - Lightning
+      - Wind
+  animal_domain:
+    name: Animal Domain
+    subs:
+      - Feather
+      - Fur
+      - Insect
+  artifice_domain:
+    name: Artifice Domain
+    subs:
+      - Alchemy
+      - Construct
+      - Industry
+      - Toil
+      - Trap
+  chaos_domain:
+    name: Chaos Domain
+    subs:
+      - Azata
+      - Demodand
+      - Demon
+      - Entropy
+      - Protean
+      - Revelry
+      - Riot
+      - Whimsy
+  charm_domain:
+    name: Charm Domain
+    subs:
+      - Captivation
+      - Love
+      - Lust
+  community_domain:
+    name: Community Domain
+    subs:
+      - Cooperation
+      - Education
+      - Family
+      - Home
+  darkness_domain:
+    name: Darkness Domain
+    subs:
+      - Loss
+      - Moon
+      - Night
+  death_domain:
+    name: Death Domain
+    subs:
+      - Murder
+      - Plague
+      - Psychopomp
+      - Undead
+  destruction_domain:
+    name: Destruction Domain
+    subs:
+      - Catastrophe
+      - Hatred
+      - Rage
+      - Torture
+  earth_domain:
+    name: Earth Domain
+    subs:
+      - Caves
+      - Metal
+      - Petrification
+      - Radiation
+  evil_domain:
+    name: Evil Domain
+    subs:
+      - Cannibalism
+      - Corruption
+      - Daemon
+      - Demodand
+      - Demon
+      - Devil
+      - Fear
+      - Kyton
+      - Plague
+  fire_domain:
+    name: Fire Domain
+    subs:
+      - Arson
+      - Ash
+      - Smoke
+  glory_domain:
+    name: Glory Domain
+    subs:
+      - Heroism
+      - Honor
+      - Hubris
+      - Legend
+  good_domain:
+    name: Good Domain
+    subs:
+     - Agathion
+     - Archon
+     - Azata
+     - Friendship
+     - Redemption
+  healing_domain:
+    name: Healing Domain
+    subs:
+      - Medicine
+      - Restoration
+      - Resurrection
+  knowledge_domain:
+    name: Knowledge Domain
+    subs:
+      - Aeon
+      - Education
+      - Espionage
+      - Memory
+      - Thught
+  law_domain:
+    name: Law Domain
+    subs:
+      - Archon
+      - Devil
+      - Inevitable
+      - Judgment
+      - Kyton
+      - Legislation
+      - Loyalty
+      - Slavery
+      - Tyranny
+  liberation_domain:
+    name: Liberation Domain
+    subs:
+      - Freedom
+      - Revolution
+      - Self-Realization
+  luck_domain:
+    name: Luck Domain
+    subs:
+      - Curse
+      - Fate
+      - Imagination
+  madness_domain:
+    name: Madness Domain
+    subs:
+      - Insanity
+      - Nightamre
+      - Truth
+  magic_domain:
+    name: Magic Domain
+    subs:
+      - Alchemy
+      - Arcane
+      - Divine
+      - Rites
+  nobility_domain:
+    name: Nobility Domain
+    subs:
+      - Aristocracy
+      - Hubris
+      - Leadership
+      - Martyr
+  plant_domain:
+    name: Plant Domain
+    subs:
+      - Decay
+      - Growth
+      - Thorns
+  protection_domain:
+    name: Protection Domain
+    subs:
+      - Defense
+      - Fortifications
+      - Purity
+      - Solitude
+  repose_domain:
+    name: Repose Domain
+    subs:
+      - Ancestors
+      - Psychopomp
+      - Souls
+  ruins:
+    name: Ruins
+  rune_domain:
+    name: Rune Domain
+    subs:
+      - Language
+      - Legislation
+      - Wards
+  scalykind_domain:
+    name: Scalykind Domain
+    subs:
+      - Dragon
+      - Saurian
+      - Venom
+  strength_domain:
+    name: Strength Domain
+    subs:
+      - Competition
+      - Ferocity
+      - Fist
+      - Resolve
+      - Self-Realization
+  sun_domain:
+    name: Sun Domain
+    subs:
+      - Day
+      - Light
+      - Revelation
+      - Thirst
+  travel_domain:
+    name: Travel Domain
+    subs:
+      - Exploration
+      - Portal
+      - Trade
+  trickery_domain:
+    name: Trickery Domain
+    subs:
+      - Ambush
+      - Deception
+      - Espionage
+      - Greed
+      - Innuendo
+      - Thievery
+  vermin:
+    name: Vermin
+  void_domain:
+    name: Void Domain
+    subs:
+      - Dark Tapestry
+      - Isolation
+      - Stars
+  war_domain:
+    name: War Domain
+    subs:
+      - Blood
+      - Duels
+      - Tactics
+  water_domain:
+    name: Water Domain
+    subs:
+      - Flotsam
+      - Flowing
+      - Ice
+      - Oceans
+      - Rivers
+  weather_domain:
+    name: Weather Domain
+    subs:
+      - Monsoon
+      - Seasons
+      - Storms
