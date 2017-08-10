@@ -1,293 +1,293 @@
 importer: spelltables.masteries
 
-  objects:
-  - !Mastery
-    mastery_type: Domains
-    name: Air Domain
-    subs:
-      - Cloud
-      - Lightning
-      - Wind
-  - !Mastery
-    mastery_type: Domains
-    name: Animal Domain
-    subs:
-      - Feather
-      - Fur
-      - Insect
-  - !Mastery
-    mastery_type: Domains
-    name: Artifice Domain
-    subs:
-      - Alchemy
-      - Construct
-      - Industry
-      - Toil
-      - Trap
-  - !Mastery
-    mastery_type: Domains
-    name: Chaos Domain
-    subs:
-      - Azata
-      - Demodand
-      - Demon
-      - Entropy
-      - Protean
-      - Revelry
-      - Riot
-      - Whimsy
-  - !Mastery
-    mastery_type: Domains
-    name: Charm Domain
-    subs:
-      - Captivation
-      - Love
-      - Lust
-  - !Mastery
-    mastery_type: Domains
-    name: Community Domain
-    subs:
-      - Cooperation
-      - Education
-      - Family
-      - Home
-  - !Mastery
-    mastery_type: Domains
-    name: Darkness Domain
-    subs:
-      - Loss
-      - Moon
-      - Night
-  - !Mastery
-    mastery_type: Domains
-    name: Death Domain
-    subs:
-      - Murder
-      - Plague
-      - Psychopomp
-      - Undead
-  - !Mastery
-    mastery_type: Domains
-    name: Destruction Domain
-    subs:
-      - Catastrophe
-      - Hatred
-      - Rage
-      - Torture
-  - !Mastery
-    mastery_type: Domains
-    name: Earth Domain
-    subs:
-      - Caves
-      - Metal
-      - Petrification
-      - Radiation
-  - !Mastery
-    mastery_type: Domains
-    name: Evil Domain
-    subs:
-      - Cannibalism
-      - Corruption
-      - Daemon
-      - Demodand
-      - Demon
-      - Devil
-      - Fear
-      - Kyton
-      - Plague
-  - !Mastery
-    mastery_type: Domains
-    name: Fire Domain
-    subs:
-      - Arson
-      - Ash
-      - Smoke
-  - !Mastery
-    mastery_type: Domains
-    name: Glory Domain
-    subs:
-      - Heroism
-      - Honor
-      - Hubris
-      - Legend
-  - !Mastery
-    mastery_type: Domains
-    name: Good Domain
-    subs:
-     - Agathion
-     - Archon
-     - Azata
-     - Friendship
-     - Redemption
-  - !Mastery
-    mastery_type: Domains
-    name: Healing Domain
-    subs:
-      - Medicine
-      - Restoration
-      - Resurrection
-  - !Mastery
-    mastery_type: Domains
-    name: Knowledge Domain
-    subs:
-      - Aeon
-      - Education
-      - Espionage
-      - Memory
-      - Thught
-  - !Mastery
-    mastery_type: Domains
-    name: Law Domain
-    subs:
-      - Archon
-      - Devil
-      - Inevitable
-      - Judgment
-      - Kyton
-      - Legislation
-      - Loyalty
-      - Slavery
-      - Tyranny
-  - !Mastery
-    mastery_type: Domains
-    name: Liberation Domain
-    subs:
-      - Freedom
-      - Revolution
-      - Self-Realization
-  - !Mastery
-    mastery_type: Domains
-    name: Luck Domain
-    subs:
-      - Curse
-      - Fate
-      - Imagination
-  - !Mastery
-    mastery_type: Domains
-    name: Madness Domain
-    subs:
-      - Insanity
-      - Nightamre
-      - Truth
-  - !Mastery
-    mastery_type: Domains
-    name: Magic Domain
-    subs:
-      - Alchemy
-      - Arcane
-      - Divine
-      - Rites
-  - !Mastery
-    mastery_type: Domains
-    name: Nobility Domain
-    subs:
-      - Aristocracy
-      - Hubris
-      - Leadership
-      - Martyr
-  - !Mastery
-    mastery_type: Domains
-    name: Plant Domain
-    subs:
-      - Decay
-      - Growth
-      - Thorns
-  - !Mastery
-    mastery_type: Domains
-    name: Protection Domain
-    subs:
-      - Defense
-      - Fortifications
-      - Purity
-      - Solitude
-  - !Mastery
-    mastery_type: Domains
-    name: Repose Domain
-    subs:
-      - Ancestors
-      - Psychopomp
-      - Souls
-  - !Mastery
-    mastery_type: Domains
-    name: Ruins
-  - !Mastery
-    mastery_type: Domains
-    name: Rune Domain
-    subs:
-      - Language
-      - Legislation
-      - Wards
-  - !Mastery
-    mastery_type: Domains
-    name: Scalykind Domain
-    subs:
-      - Dragon
-      - Saurian
-      - Venom
-  - !Mastery
-    mastery_type: Domains
-    name: Strength Domain
-    subs:
-      - Competition
-      - Ferocity
-      - Fist
-      - Resolve
-      - Self-Realization
-  - !Mastery
-    mastery_type: Domains
-    name: Sun Domain
-    subs:
-      - Day
-      - Light
-      - Revelation
-      - Thirst
-  - !Mastery
-    mastery_type: Domains
-    name: Travel Domain
-    subs:
-      - Exploration
-      - Portal
-      - Trade
-  - !Mastery
-    mastery_type: Domains
-    name: Trickery Domain
-    subs:
-      - Ambush
-      - Deception
-      - Espionage
-      - Greed
-      - Innuendo
-      - Thievery
-  - !Mastery
-    mastery_type: Domains
-    name: Vermin
-  - !Mastery
-    mastery_type: Domains
-    name: Void Domain
-    subs:
-      - Dark Tapestry
-      - Isolation
-      - Stars
-  - !Mastery
-    mastery_type: Domains
-    name: War Domain
-    subs:
-      - Blood
-      - Duels
-      - Tactics
-  - !Mastery
-    mastery_type: Domains
-    name: Water Domain
-    subs:
-      - Flotsam
-      - Flowing
-      - Ice
-      - Oceans
-      - Rivers
-  - !Mastery
-    mastery_type: Domains
-    name: Weather Domain
-    subs:
-      - Monsoon
-      - Seasons
-      - Storms
+objects:
+- !Mastery
+  mastery_type: Domains
+  name: Air Domain
+  subs:
+    - Cloud
+    - Lightning
+    - Wind
+- !Mastery
+  mastery_type: Domains
+  name: Animal Domain
+  subs:
+    - Feather
+    - Fur
+    - Insect
+- !Mastery
+  mastery_type: Domains
+  name: Artifice Domain
+  subs:
+    - Alchemy
+    - Construct
+    - Industry
+    - Toil
+    - Trap
+- !Mastery
+  mastery_type: Domains
+  name: Chaos Domain
+  subs:
+    - Azata
+    - Demodand
+    - Demon
+    - Entropy
+    - Protean
+    - Revelry
+    - Riot
+    - Whimsy
+- !Mastery
+  mastery_type: Domains
+  name: Charm Domain
+  subs:
+    - Captivation
+    - Love
+    - Lust
+- !Mastery
+  mastery_type: Domains
+  name: Community Domain
+  subs:
+    - Cooperation
+    - Education
+    - Family
+    - Home
+- !Mastery
+  mastery_type: Domains
+  name: Darkness Domain
+  subs:
+    - Loss
+    - Moon
+    - Night
+- !Mastery
+  mastery_type: Domains
+  name: Death Domain
+  subs:
+    - Murder
+    - Plague
+    - Psychopomp
+    - Undead
+- !Mastery
+  mastery_type: Domains
+  name: Destruction Domain
+  subs:
+    - Catastrophe
+    - Hatred
+    - Rage
+    - Torture
+- !Mastery
+  mastery_type: Domains
+  name: Earth Domain
+  subs:
+    - Caves
+    - Metal
+    - Petrification
+    - Radiation
+- !Mastery
+  mastery_type: Domains
+  name: Evil Domain
+  subs:
+    - Cannibalism
+    - Corruption
+    - Daemon
+    - Demodand
+    - Demon
+    - Devil
+    - Fear
+    - Kyton
+    - Plague
+- !Mastery
+  mastery_type: Domains
+  name: Fire Domain
+  subs:
+    - Arson
+    - Ash
+    - Smoke
+- !Mastery
+  mastery_type: Domains
+  name: Glory Domain
+  subs:
+    - Heroism
+    - Honor
+    - Hubris
+    - Legend
+- !Mastery
+  mastery_type: Domains
+  name: Good Domain
+  subs:
+   - Agathion
+   - Archon
+   - Azata
+   - Friendship
+   - Redemption
+- !Mastery
+  mastery_type: Domains
+  name: Healing Domain
+  subs:
+    - Medicine
+    - Restoration
+    - Resurrection
+- !Mastery
+  mastery_type: Domains
+  name: Knowledge Domain
+  subs:
+    - Aeon
+    - Education
+    - Espionage
+    - Memory
+    - Thught
+- !Mastery
+  mastery_type: Domains
+  name: Law Domain
+  subs:
+    - Archon
+    - Devil
+    - Inevitable
+    - Judgment
+    - Kyton
+    - Legislation
+    - Loyalty
+    - Slavery
+    - Tyranny
+- !Mastery
+  mastery_type: Domains
+  name: Liberation Domain
+  subs:
+    - Freedom
+    - Revolution
+    - Self-Realization
+- !Mastery
+  mastery_type: Domains
+  name: Luck Domain
+  subs:
+    - Curse
+    - Fate
+    - Imagination
+- !Mastery
+  mastery_type: Domains
+  name: Madness Domain
+  subs:
+    - Insanity
+    - Nightamre
+    - Truth
+- !Mastery
+  mastery_type: Domains
+  name: Magic Domain
+  subs:
+    - Alchemy
+    - Arcane
+    - Divine
+    - Rites
+- !Mastery
+  mastery_type: Domains
+  name: Nobility Domain
+  subs:
+    - Aristocracy
+    - Hubris
+    - Leadership
+    - Martyr
+- !Mastery
+  mastery_type: Domains
+  name: Plant Domain
+  subs:
+    - Decay
+    - Growth
+    - Thorns
+- !Mastery
+  mastery_type: Domains
+  name: Protection Domain
+  subs:
+    - Defense
+    - Fortifications
+    - Purity
+    - Solitude
+- !Mastery
+  mastery_type: Domains
+  name: Repose Domain
+  subs:
+    - Ancestors
+    - Psychopomp
+    - Souls
+- !Mastery
+  mastery_type: Domains
+  name: Ruins
+- !Mastery
+  mastery_type: Domains
+  name: Rune Domain
+  subs:
+    - Language
+    - Legislation
+    - Wards
+- !Mastery
+  mastery_type: Domains
+  name: Scalykind Domain
+  subs:
+    - Dragon
+    - Saurian
+    - Venom
+- !Mastery
+  mastery_type: Domains
+  name: Strength Domain
+  subs:
+    - Competition
+    - Ferocity
+    - Fist
+    - Resolve
+    - Self-Realization
+- !Mastery
+  mastery_type: Domains
+  name: Sun Domain
+  subs:
+    - Day
+    - Light
+    - Revelation
+    - Thirst
+- !Mastery
+  mastery_type: Domains
+  name: Travel Domain
+  subs:
+    - Exploration
+    - Portal
+    - Trade
+- !Mastery
+  mastery_type: Domains
+  name: Trickery Domain
+  subs:
+    - Ambush
+    - Deception
+    - Espionage
+    - Greed
+    - Innuendo
+    - Thievery
+- !Mastery
+  mastery_type: Domains
+  name: Vermin
+- !Mastery
+  mastery_type: Domains
+  name: Void Domain
+  subs:
+    - Dark Tapestry
+    - Isolation
+    - Stars
+- !Mastery
+  mastery_type: Domains
+  name: War Domain
+  subs:
+    - Blood
+    - Duels
+    - Tactics
+- !Mastery
+  mastery_type: Domains
+  name: Water Domain
+  subs:
+    - Flotsam
+    - Flowing
+    - Ice
+    - Oceans
+    - Rivers
+- !Mastery
+  mastery_type: Domains
+  name: Weather Domain
+  subs:
+    - Monsoon
+    - Seasons
+    - Storms

@@ -1,129 +1,129 @@
 importer: spelltables.masteries
 
-  objects:
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Aberrant Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Abyssal Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Accursed Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Aquatic Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Arcane Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Boreal Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Celestial Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Daemon Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Deep Earth Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Destined Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Div Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Djinni Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Draconic Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Dreamspun Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Ectoplasm Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Efreeti Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Elemental Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Fey Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Ghoul Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Harrow Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Imperious Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Impossible Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Infernal Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Kobold Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Maestro Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Marid Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Martyred Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Nanite Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Oni Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Orc Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Pestilence Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Possessed Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Protean Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Psychic Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Rakshasa Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Serpentine Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Shadow Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Shaitan Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Starsoul Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Stormborn Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Undead Bloodline
-  - !Mastery
-    mastery_type: Bloodlines
-    name: Verdant Bloodline
+objects:
+- !Mastery
+  mastery_type: Bloodlines
+  name: Aberrant Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Abyssal Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Accursed Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Aquatic Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Arcane Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Boreal Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Celestial Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Daemon Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Deep Earth Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Destined Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Div Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Djinni Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Draconic Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Dreamspun Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Ectoplasm Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Efreeti Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Elemental Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Fey Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Ghoul Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Harrow Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Imperious Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Impossible Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Infernal Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Kobold Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Maestro Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Marid Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Martyred Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Nanite Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Oni Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Orc Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Pestilence Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Possessed Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Protean Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Psychic Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Rakshasa Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Serpentine Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Shadow Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Shaitan Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Starsoul Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Stormborn Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Undead Bloodline
+- !Mastery
+  mastery_type: Bloodlines
+  name: Verdant Bloodline

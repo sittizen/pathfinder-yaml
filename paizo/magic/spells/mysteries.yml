@@ -1,93 +1,93 @@
 importer: spelltables.masteries
 
-  objects:
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Ancestor
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Apocalypse
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Battle
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Bones
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Dark Tapestry
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Dragon
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Flame
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Godclaw
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Heavens
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Intrigue
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Juju
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Life
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Lore
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Lunar
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Metal
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Nature
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Occult
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Outer Rifts
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Shadow
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Solar
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Spellscar
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Stone
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Streets
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Succor
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Time
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Volcano
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Waves
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Wind
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Winter
-  - !Mastery:
-      mastery_type: Mysteries
-      name: Wood
+objects:
+- !Mastery
+    mastery_type: Mysteries
+    name: Ancestor
+- !Mastery
+    mastery_type: Mysteries
+    name: Apocalypse
+- !Mastery
+    mastery_type: Mysteries
+    name: Battle
+- !Mastery
+    mastery_type: Mysteries
+    name: Bones
+- !Mastery
+    mastery_type: Mysteries
+    name: Dark Tapestry
+- !Mastery
+    mastery_type: Mysteries
+    name: Dragon
+- !Mastery
+    mastery_type: Mysteries
+    name: Flame
+- !Mastery
+    mastery_type: Mysteries
+    name: Godclaw
+- !Mastery
+    mastery_type: Mysteries
+    name: Heavens
+- !Mastery
+    mastery_type: Mysteries
+    name: Intrigue
+- !Mastery
+    mastery_type: Mysteries
+    name: Juju
+- !Mastery
+    mastery_type: Mysteries
+    name: Life
+- !Mastery
+    mastery_type: Mysteries
+    name: Lore
+- !Mastery
+    mastery_type: Mysteries
+    name: Lunar
+- !Mastery
+    mastery_type: Mysteries
+    name: Metal
+- !Mastery
+    mastery_type: Mysteries
+    name: Nature
+- !Mastery
+    mastery_type: Mysteries
+    name: Occult
+- !Mastery
+    mastery_type: Mysteries
+    name: Outer Rifts
+- !Mastery
+    mastery_type: Mysteries
+    name: Shadow
+- !Mastery
+    mastery_type: Mysteries
+    name: Solar
+- !Mastery
+    mastery_type: Mysteries
+    name: Spellscar
+- !Mastery
+    mastery_type: Mysteries
+    name: Stone
+- !Mastery
+    mastery_type: Mysteries
+    name: Streets
+- !Mastery
+    mastery_type: Mysteries
+    name: Succor
+- !Mastery
+    mastery_type: Mysteries
+    name: Time
+- !Mastery
+    mastery_type: Mysteries
+    name: Volcano
+- !Mastery
+    mastery_type: Mysteries
+    name: Waves
+- !Mastery
+    mastery_type: Mysteries
+    name: Wind
+- !Mastery
+    mastery_type: Mysteries
+    name: Winter
+- !Mastery
+    mastery_type: Mysteries
+    name: Wood
