@@ -1,21 +1,22 @@
 importer: spelltables.masteries
 
-mastery_type: Domains
-
-masteries:
-  air_domain:
+  objects:
+  - !Mastery
+    mastery_type: Domains
     name: Air Domain
     subs:
       - Cloud
       - Lightning
       - Wind
-  animal_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Animal Domain
     subs:
       - Feather
       - Fur
       - Insect
-  artifice_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Artifice Domain
     subs:
       - Alchemy
@@ -23,7 +24,8 @@ masteries:
       - Industry
       - Toil
       - Trap
-  chaos_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Chaos Domain
     subs:
       - Azata
@@ -34,47 +36,54 @@ masteries:
       - Revelry
       - Riot
       - Whimsy
-  charm_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Charm Domain
     subs:
       - Captivation
       - Love
       - Lust
-  community_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Community Domain
     subs:
       - Cooperation
       - Education
       - Family
       - Home
-  darkness_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Darkness Domain
     subs:
       - Loss
       - Moon
       - Night
-  death_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Death Domain
     subs:
       - Murder
       - Plague
       - Psychopomp
       - Undead
-  destruction_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Destruction Domain
     subs:
       - Catastrophe
       - Hatred
       - Rage
       - Torture
-  earth_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Earth Domain
     subs:
       - Caves
       - Metal
       - Petrification
       - Radiation
-  evil_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Evil Domain
     subs:
       - Cannibalism
@@ -86,20 +95,23 @@ masteries:
       - Fear
       - Kyton
       - Plague
-  fire_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Fire Domain
     subs:
       - Arson
       - Ash
       - Smoke
-  glory_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Glory Domain
     subs:
       - Heroism
       - Honor
       - Hubris
       - Legend
-  good_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Good Domain
     subs:
      - Agathion
@@ -107,13 +119,15 @@ masteries:
      - Azata
      - Friendship
      - Redemption
-  healing_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Healing Domain
     subs:
       - Medicine
       - Restoration
       - Resurrection
-  knowledge_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Knowledge Domain
     subs:
       - Aeon
@@ -121,7 +135,8 @@ masteries:
       - Espionage
       - Memory
       - Thught
-  law_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Law Domain
     subs:
       - Archon
@@ -133,72 +148,84 @@ masteries:
       - Loyalty
       - Slavery
       - Tyranny
-  liberation_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Liberation Domain
     subs:
       - Freedom
       - Revolution
       - Self-Realization
-  luck_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Luck Domain
     subs:
       - Curse
       - Fate
       - Imagination
-  madness_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Madness Domain
     subs:
       - Insanity
       - Nightamre
       - Truth
-  magic_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Magic Domain
     subs:
       - Alchemy
       - Arcane
       - Divine
       - Rites
-  nobility_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Nobility Domain
     subs:
       - Aristocracy
       - Hubris
       - Leadership
       - Martyr
-  plant_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Plant Domain
     subs:
       - Decay
       - Growth
       - Thorns
-  protection_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Protection Domain
     subs:
       - Defense
       - Fortifications
       - Purity
       - Solitude
-  repose_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Repose Domain
     subs:
       - Ancestors
       - Psychopomp
       - Souls
-  ruins:
+  - !Mastery
+    mastery_type: Domains
     name: Ruins
-  rune_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Rune Domain
     subs:
       - Language
       - Legislation
       - Wards
-  scalykind_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Scalykind Domain
     subs:
       - Dragon
       - Saurian
       - Venom
-  strength_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Strength Domain
     subs:
       - Competition
@@ -206,20 +233,23 @@ masteries:
       - Fist
       - Resolve
       - Self-Realization
-  sun_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Sun Domain
     subs:
       - Day
       - Light
       - Revelation
       - Thirst
-  travel_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Travel Domain
     subs:
       - Exploration
       - Portal
       - Trade
-  trickery_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Trickery Domain
     subs:
       - Ambush
@@ -228,21 +258,25 @@ masteries:
       - Greed
       - Innuendo
       - Thievery
-  vermin:
+  - !Mastery
+    mastery_type: Domains
     name: Vermin
-  void_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Void Domain
     subs:
       - Dark Tapestry
       - Isolation
       - Stars
-  war_domain:
+  - !Mastery
+    mastery_type: Domains
     name: War Domain
     subs:
       - Blood
       - Duels
       - Tactics
-  water_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Water Domain
     subs:
       - Flotsam
@@ -250,7 +284,8 @@ masteries:
       - Ice
       - Oceans
       - Rivers
-  weather_domain:
+  - !Mastery
+    mastery_type: Domains
     name: Weather Domain
     subs:
       - Monsoon

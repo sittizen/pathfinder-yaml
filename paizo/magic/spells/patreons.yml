@@ -1,91 +1,132 @@
-importer: spelltables.patreons
+importer: spelltables.masteries
 
-mastery_type: Patreons
-
-masteries:
-  agility:
+  objects:
+  - !Mastery:
+    mastery_type: Patreons
     name: Agility
-  ancestors:
+  - !Mastery:
+    mastery_type: Patreons
     name: Ancestors
-  animals:
+  - !Mastery:
+    mastery_type: Patreons
     name: Animals
-  boundaries:
+  - !Mastery:
+    mastery_type: Patreons
     name: Boundaries
-  conspiracies:
+  - !Mastery:
+    mastery_type: Patreons
     name: Conspiracies
-  death:
+  - !Mastery:
+    mastery_type: Patreons
     name: Death
-  decadence:
+  - !Mastery:
+    mastery_type: Patreons
     name: Decadence
-  deception:
+  - !Mastery:
+    mastery_type: Patreons
     name: Deception
-  devotion:
+  - !Mastery:
+    mastery_type: Patreons
     name: Devotion
-  dimensions:
+  - !Mastery:
+    mastery_type: Patreons
     name: Dimensions
-  elements:
+  - !Mastery:
+    mastery_type: Patreons
     name: Elements
-  enchantment:
+  - !Mastery:
+    mastery_type: Patreons
     name: Enchantment
-  endurance:
+  - !Mastery:
+    mastery_type: Patreons
     name: Endurance
-  entropy:
+  - !Mastery:
+    mastery_type: Patreons
     name: Entropy
-  ethereal:
+  - !Mastery:
+    mastery_type: Patreons
     name: Ethereal
-  healing:
+  - !Mastery:
+    mastery_type: Patreons
     name: Healing
-  insanity:
+  - !Mastery:
+    mastery_type: Patreons
     name: Insanity
-  light:
+  - !Mastery:
+    mastery_type: Patreons
     name: Light
-  mind:
+  - !Mastery:
+    mastery_type: Patreons
     name: Mind
-  moon:
+  - !Mastery:
+    mastery_type: Patreons
     name: Moon
-  mountain:
+  - !Mastery:
+    mastery_type: Patreons
     name: Mountain
-  occult:
+  - !Mastery:
+    mastery_type: Patreons
     name: Occult
-  nightmares:
+  - !Mastery:
+    mastery_type: Patreons
     name: Nightmares
-  revenge:
+  - !Mastery:
+    mastery_type: Patreons
     name: Revenge
-  space:
+  - !Mastery:
+    mastery_type: Patreons
     name: Space
-  peace:
+  - !Mastery:
+    mastery_type: Patreons
     name: Peace
-  plague:
+  - !Mastery:
+    mastery_type: Patreons
     name: Plague
-  plant:
+  - !Mastery:
+    mastery_type: Patreons
     name: Plant
-  portents:
+  - !Mastery:
+    mastery_type: Patreons
     name: Portents
-  shadow:
+  - !Mastery:
+    mastery_type: Patreons
     name: Shadow
-  spirits:
+  - !Mastery:
+    mastery_type: Patreons
     name: Spirits
-  stars:
+  - !Mastery:
+    mastery_type: Patreons
     name: Stars
-  storms:
+  - !Mastery:
+    mastery_type: Patreons
     name: Storms
-  strength:
+  - !Mastery:
+    mastery_type: Patreons
     name: Strength
-  summer:
+  - !Mastery:
+    mastery_type: Patreons
     name: Summer
-  thorns:
+  - !Mastery:
+    mastery_type: Patreons
     name: Thorns
-  time:
+  - !Mastery:
+    mastery_type: Patreons
     name: Time
-  transformation:
+  - !Mastery:
+    mastery_type: Patreons
     name: Transformation
-  trickery:
+  - !Mastery:
+    mastery_type: Patreons
     name: Trickery
-  vengeance:
+  - !Mastery:
+    mastery_type: Patreons
     name: Vengeance
-  water:
+  - !Mastery:
+    mastery_type: Patreons
     name: Water
-  winter:
+  - !Mastery:
+    mastery_type: Patreons
     name: Winter
-  wisdom:
+  - !Mastery:
+    mastery_type: Patreons
     name: Wisdom
