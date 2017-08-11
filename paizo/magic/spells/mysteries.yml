@@ -2,92 +2,92 @@ importer: spelltables.masteries
 
 objects:
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Ancestor
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Apocalypse
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Battle
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Bones
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Dark Tapestry
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Dragon
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Flame
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Godclaw
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Heavens
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Intrigue
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Juju
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Life
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Lore
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Lunar
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Metal
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Nature
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Occult
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Outer Rifts
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Shadow
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Solar
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Spellscar
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Stone
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Streets
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Succor
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Time
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Volcano
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Waves
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Wind
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Winter
 - !Mastery
-    mastery_type: Mysteries
+    mastery_type: Mystery
     name: Wood

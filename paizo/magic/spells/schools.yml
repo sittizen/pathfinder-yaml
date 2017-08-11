@@ -2,13 +2,13 @@ importer: spelltables.masteries
 
 objects:
 - !Mastery
-  mastery_type: Schools
+  mastery_type: School
   name: Abjuration
   subs:
     - Banishment
     - Counterspell
 - !Mastery
-  mastery_type: Schools
+  mastery_type: School
   name: Conjuration
   subs:
     - Creation
@@ -16,25 +16,25 @@ objects:
     - Infernal Binde
     - Teleportation
 - !Mastery
-  mastery_type: Schools
+  mastery_type: School
   name: Divination
   subs:
     - Foresight
     - Scryer
 - !Mastery
-  mastery_type: Schools
+  mastery_type: School
   name: Enchantment
   subs:
     - Controller
     - Manipulator
 - !Mastery
-  mastery_type: Schools
+  mastery_type: School
   name: Evocation
   subs:
     - Admixture
     - Generation
 - !Mastery
-  mastery_type: Schools
+  mastery_type: School
   name: Illusion
   subs:
     - Deception
@@ -42,13 +42,13 @@ objects:
     - Phantasm
     - Shadow
 - !Mastery
-  mastery_type: Schools
+  mastery_type: School
   name: Necromancy
   subs:
     - Life
     - Undead
 - !Mastery
-  mastery_type: Schools
+  mastery_type: School
   name: Transmutation
   subs:
     - Enhancement

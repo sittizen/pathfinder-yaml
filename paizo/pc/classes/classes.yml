@@ -1,4 +1,4 @@
-importer: pcs.class
+importer: pcs.pcclass
 
 objects:
 - !PCClass
